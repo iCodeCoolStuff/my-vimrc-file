@@ -16,5 +16,5 @@
 :set expandtab
 
 "set colorscheme equal to solarized
-:set colorscheme solarized
+:colorscheme solarized
 ```
