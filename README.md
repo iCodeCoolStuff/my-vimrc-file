@@ -14,4 +14,7 @@
 :set tabstop=4
 :set shiftwidth=4
 :set expandtab
+
+"set colorscheme equal to solarized
+:set colorscheme solarized
 ```
